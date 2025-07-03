@@ -16,6 +16,7 @@ Eine responsive fiktive Reisewebsite - erstellt im Online-Kurs.
 ![Screenshot Head](img/ScreenshotHead.jpg)
 ![Screenshot Adventure](img/ScreenshotAdventure.jpg)
 ![Screenshot Guide](img/ScreenshotGuide.jpg)
+![Screenshot Contact](img/ScreenshotContact.jpg)
 
 ---
 
@@ -33,8 +34,7 @@ Eine responsive fiktive Reisewebsite - erstellt im Online-Kurs.
 ### Im Browser
 
 1. Projekt klonen: `git clone https://github.com/Hannes2806/Reisewebsite-UMA.git`
-2. Öffnen im Browser (z.B. Firefox)
-3. `index.html` ausführen
+2. `index.html` im Browser ausführen (z.B. Firefox)
 
 ## 📄 Licence
 
