@@ -1,57 +1,45 @@
-# 📅 ToDo-Organizer
+# 🌴 Reisewebsite - UMA
 
-A simple to-do organiser for creating, managing and filtering tasks according to urgency and date - with a graphical user interface (Swing).
+Eine responsive fiktive Reisewebsite - erstellt im Online-Kurs.
 
 ---
 
 ## 🚀 Features
 
-- ToDo overview sorted by urgency
-- detailed view of individual todos
-- filtered TodayView
-- dynamic calendar for an overview
-- creation, editing and removal of todos
-- local storage in JSON format
-- clean code according to mvc
+- Reisewebsite mit verschiedenen Sektionen und Designelementen
+- 100% responsive
 
 ---
 
 ## 📷 Screenshots
 
-![Screenshot Overview](img/ScreenshotOverview.jpg)
-![Screenshot NewTodo](img/ScreenshotNewTodo.jpg)
-![Screenshot Calendar](img/ScreenshotCalendar.jpg)
-![Screenshot TodayView](img/ScreenshotTodayView.jpg)
+![Screenshot Head](img/ScreenshotHead.jpg)
+![Screenshot Adventure](img/ScreenshotAdventure.jpg)
+![Screenshot Guide](img/ScreenshotGuide.jpg)
 
 ---
 
-## 🛠️ Used technologies
+## 🛠️ Verwendete Technologien
 
 | Tool / Library                                                   | Purpose               |
 |------------------------------------------------------------------|-----------------------|
-| Java (21+), tested with GraalVM JDK 21                           | Programming language  |
-| Swing                                                            | GUI-Toolkit           |
-| Maven (3.6+)                                                     | Dependency-Management |
-| [Jackson Databind](https://github.com/FasterXML/jackson) (v2.15) | JSON-Serialisation    |
+| HTML5 & CSS3                          | Language  |
+| [Montserrat](https://fonts.google.com/specimen/Montserrat)                                                          | Font           |
 
 ---
 
-## 💻 Installation/Execution
+## 💻 Installation/Ausführung
 
-Requirements:
-- Java JDK **21** or later (z.B. [GraalVM JDK 21](https://www.graalvm.org))
-- Maven 3.6 or later
+### Im Browser
 
-### With IDE (Intellij)
-
-1. Clone project: `git clone https://github.com/Hannes2806/Todo-Organizer.git`
-2. Open in IDE (Intellij)
-3. Execute `Main.java`
+1. Projekt klonen: `git clone https://github.com/Hannes2806/Reisewebsite-UMA.git`
+2. Öffnen im Browser (z.B. Firefox)
+3. `index.html` ausführen
 
 ## 📄 Licence
 
-This project is licensed under the Apache Licence 2.0. For more information see [LICENSE](LICENSE.txt).
+Dieses Projekt wurde im Rahmen dieses [Onlinekurses](https://www.udemy.com/course/html5-und-css3/?kw=html&src=sac&couponCode=ST4MT20725G2) erstellt und entspricht der im Kurs gegebenen Lizenzvereinbarung. 
 
 ## Author
 
-Hannes F. Martens 
+Hannes F. Martens, in Anlehnung an dem [Kursprojekt](https://www.udemy.com/course/html5-und-css3/?kw=html&src=sac&couponCode=ST4MT20725G2)
